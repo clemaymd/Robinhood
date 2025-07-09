@@ -1,0 +1,1 @@
+This folder is initially empty. It will be populated with various outputs as the code is run.
